@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrinmoyHaloi
-- 👀 I’m interested in Python, c++, html, css, javascript and wordpress
+- 👀 I’m interested in Python, html, css, javascript and c++
 - 🌱 I’m currently learning python and c++
 - 📫 How to reach me mhedeetz.business@gmail.com
 
