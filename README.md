@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MrinmoyHaloi
-- 👀 I’m interested in Python, html, css, javascript and c++
-- 🌱 I’m currently learning python and c++
+- 👋 Hi, I’m Mrinmoy Haloi
+- 👀 I’m interested in Python, html, css and javascript
+- 🌱 I’m currently learning javascript
 - 📫 Reach me at mhedeetz.business@gmail.com
 
 <!---
