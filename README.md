@@ -36,7 +36,7 @@
 </p>
 
 <h2>Stats</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=mrinmoyhaloi&show_icons=true&theme=algolia)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoyhaloi&theme=radical&layout=compact)
+<p align=center>
+    <img src="https://github-readme-stats.vercel.app/api?username=mrinmoyhaloi&show_icons=true&theme=algolia" alt="stats"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoyhaloi&theme=radical&layout=compact" alt="languages"/>
+</p>
