@@ -3,11 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h3 align="center">
-  I'm a full stack developer
+  A full stack developer
 </h3>
-<h4 align="center">
-  Currently a student
-</h4>
 <h2>🕻 Contact me <img src="https://komarev.com/ghpvc/?username=mrinmoyhaloi&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001"/></h2>
 
 <p align="center">
@@ -25,7 +22,8 @@
 <h2>👩‍💻 Skills</h2>
 
 <p align="center">
-  <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/badges/HTML/html.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.w3schools.com/html/"><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="html" width="40" height="40"/>
+  <a href="https://www.w3schools.com/js/"><img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="js" width="40" height="40"/>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
   <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/Git/git.svg" alt="git" width="40" height="40"/>
