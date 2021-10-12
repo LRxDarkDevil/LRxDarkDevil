@@ -8,7 +8,7 @@
 <h2>🕻 Contact me <img src="https://komarev.com/ghpvc/?username=mrinmoyhaloi&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001"/></h2>
 
 <p align="center">
-  <a href="https://instagram.com/mhedeetz">
+  <a href="https://instagram.com/mrinmoy.2007">
     <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
   <a href="mailto:mhedeetz.business@gmail.com">
@@ -35,7 +35,7 @@
 
 <h2>Stats</h2>
 <p align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoyhaloi&theme=radical&layout=compact&hide=c,objective-c" alt="languages"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=mrinmoyhaloi&show_icons=true&theme=algolia" alt="stats"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mrinmoyhaloi&show_icons=true&theme=algolia" alt="stats"/> 
+  <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoyhaloi&theme=radical&hide=c,objective-c" alt="languages"/>
 </p>
