@@ -16,7 +16,7 @@
     Need friends.
   </li>
   <li>
-    Love Linux distros. Ex windows user. (I hate windows now)
+    Love using Linux. Ex windows user. (I dont use arch tho)
   </li>
 </ul>
 <h2>🕻 Contact me <img src="https://komarev.com/ghpvc/?username=mrinmoyhaloi&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001"/></h2>
