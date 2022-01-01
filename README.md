@@ -13,9 +13,6 @@
     Love programming. Especially web development
   </li>
   <li>
-    Need friends.
-  </li>
-  <li>
     Love using Linux. Ex windows user. (I dont use arch tho)
   </li>
 </ul>
@@ -49,9 +46,11 @@
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/NodeJS/nodejs.svg" alt="Node js" width="40" height="40"/></a>
 </p>
 
-<h2>Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrinmoyhaloi&show_icons=true&theme=algolia" alt="stats"/> 
-  <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoyhaloi&theme=radical&hide=c,objective-c,nim" alt="languages"/>
-</p>
+ Stats        | Languages     
+--------------|-----------
+ <img src="https://github-readme-stats.vercel.app/api?username=mrinmoyhaloi&show_icons=true&theme=algolia" alt="stats"/>  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoyhaloi&theme=radical&hide=c,objective-c,nim" alt="languages"/>
+    
+## Projects
+Lambda Code|Lambda Code vsc extension
+--- | ---
+[![Lambda Code](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-Code-Organization&repo=Lambda-Code&theme=radical)](https://github.com/Lambda-Code-Organization/Lambda-Code) | [![Lambda Code](https://github-readme-stats.vercel.app/api/pin/?username=Lambda-Code-Organization&repo=LC-vscode-extension&theme=radical)](https://github.com/Lambda-Code-Organization/LC-vscode-extension)
