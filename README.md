@@ -19,9 +19,6 @@
 <h2>🕻 Contact me <img src="https://komarev.com/ghpvc/?username=mrinmoyhaloi&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001"/></h2>
 
 <p>
-  <a href="https://instagram.com/mrinmoy.2007">
-    <img src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
-  </a>
   <a href="mailto:mhedeetz.business@gmail.com">
     <img src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
   </a>
