@@ -13,7 +13,7 @@
     Love programming. Especially web development
   </li>
   <li>
-    Love using Linux. Ex windows user. (I dont use arch tho)
+    Linux enthusiast. I use fedora btw
   </li>
 </ul>
 <h2>🕻 Contact me <img src="https://komarev.com/ghpvc/?username=mrinmoyhaloi&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001"/></h2>
