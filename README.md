@@ -46,6 +46,6 @@
  <img src="https://github-readme-stats.vercel.app/api?username=mrinmoyhaloi&show_icons=true&theme=algolia" alt="stats"/>  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoyhaloi&theme=radical&hide=c,objective-c,nim" alt="languages"/>
     
 ## Projects
-Lambda Code|Lambda Code vsc extension
+Swril | Swirl VSCode extension
 --- | ---
-[![Lambda Code](https://github-readme-stats.vercel.app/api/pin/?username=LC-Lang&repo=Lambda-Code&theme=radical)](https://github.com/LC-Lang/Lambda-Code) | [![Lambda Code](https://github-readme-stats.vercel.app/api/pin/?username=LC-Lang&repo=LC-vscode-extension&theme=radical)](https://github.com/LC-Lang/LC-vscode-extension)
+[![Swirl](https://github-readme-stats.vercel.app/api/pin/?username=SwirlLang&repo=Swirl&theme=radical)](https://github.com/SwirlLang/Swirl) | [![Swirl](https://github-readme-stats.vercel.app/api/pin/?username=SwirlLang&repo=Swirl-vscode-extension&theme=radical)](https://github.com/SwirlLang/Swirl-vscode-extension)
