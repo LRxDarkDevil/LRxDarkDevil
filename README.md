@@ -29,15 +29,10 @@
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
   <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
     <a href="https://github.com"><img src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-github-logo-24.png" height="40" alt="GitHub" /></a>
-    <a href="https://github.com/torvalds/linux"><img src="https://www.freepnglogos.com/uploads/linux-png/image-linux-logo-logopedia-fandom-powered-wikia-11.png" height="40" alt="Linux" /></a>
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/NodeJS/nodejs.svg" alt="Node js" width="40" height="40"/></a>
 </p>
 
  Stats        | Languages     
 --------------|-----------
- <img src="https://github-readme-stats.vercel.app/api?username=mrinmoyhaloi&show_icons=true&theme=algolia" alt="stats"/>  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoyhaloi&theme=radical&hide=c,objective-c,nim" alt="languages"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=LRxDarkDevil&show_icons=true&theme=algolia" alt="stats"/>  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRxDarkDevil&theme=radical&hide=c,objective-c,nim" alt="languages"/>
     
-## Projects
-Swril | Swirl VSCode extension
---- | ---
-[![Swirl](https://github-readme-stats.vercel.app/api/pin/?username=SwirlLang&repo=Swirl&theme=radical)](https://github.com/SwirlLang/Swirl) | [![Swirl](https://github-readme-stats.vercel.app/api/pin/?username=SwirlLang&repo=Swirl-vscode-extension&theme=radical)](https://github.com/SwirlLang/Swirl-vscode-extension)
