@@ -19,11 +19,8 @@
 <h2>🕻 Contact me <img src="https://komarev.com/ghpvc/?username=mrinmoyhaloi&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001"/></h2>
 
 <p>
-  <a href="mailto:mhedeetz.business@gmail.com">
+  <a href="mailto:tahaadnanawan@gmail.com">
     <img src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
-  </a>
-  <a href="https://stackoverflow.com/users/15559063/mrinmoy-haloi?tab=profile">
-    <img src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
   </a>
 </p>
 
@@ -33,9 +30,7 @@
   <a href="https://www.w3schools.com/html/"><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="html" width="40" height="40"/>
   <a href="https://www.w3schools.com/js/"><img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="js" width="40" height="40"/>
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
-  <a href="https://svelte.dev"><img src="https://raw.githubusercontent.com/sveltejs/svelte/29052aba7d0b78316d3a52aef1d7ddd54fe6ca84/site/static/logo.svg" alt="svelte" width="40" height="40"/>
   <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/Git/git.svg" alt="git" width="40" height="40"/>
     <a href="https://github.com"><img src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-github-logo-24.png" height="40" alt="GitHub" /></a>
     <a href="https://github.com/torvalds/linux"><img src="https://www.freepnglogos.com/uploads/linux-png/image-linux-logo-logopedia-fandom-powered-wikia-11.png" height="40" alt="Linux" /></a>
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/NodeJS/nodejs.svg" alt="Node js" width="40" height="40"/></a>
