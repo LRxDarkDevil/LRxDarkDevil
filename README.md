@@ -36,3 +36,4 @@
 --------------|-----------
  <img src="https://github-readme-stats.vercel.app/api?username=LRxDarkDevil&show_icons=true&theme=algolia" alt="stats"/>  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRxDarkDevil&theme=radical&hide=c,objective-c,nim" alt="languages"/>
     
+Thanks to <a href="https://github.com/MrinmoyHaloi">Mrinmory Haloi</a>
