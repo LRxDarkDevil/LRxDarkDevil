@@ -18,10 +18,6 @@
   <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/activity.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Open Source & Creative Coding</span>
 </p>
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/readme-assets/main/divider/divider-10.svg" width="80%"/>
-</p>
 
 <h2 align="center" style="color:#00FFB2;">🛠️ Tech Stack</h2>
 
@@ -37,10 +33,6 @@
   </a>
 </p>
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/readme-assets/main/divider/divider-10.svg" width="80%"/>
-</p>
 
 <h2 align="center" style="color:#00FFB2;">📈 GitHub Stats & Widgets</h2>
 
@@ -65,10 +57,7 @@
   <b>Gmail:</b> tahaadnanawan@gmail.com
 </p>
 
-<!-- Neon Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshay090/readme-assets/main/divider/divider-10.svg" width="80%"/>
-</p>
+
 
 <h2 align="center" style="color:#00FFB2;">✨ Fun Facts / Now</h2>
 
@@ -78,10 +67,6 @@
   <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/cpu.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Now: Building With Firebase, Node.js, And React!</span>
 </p>
 
-<!-- Cyberpunk Matrix Background Effect (Bottom) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/matrix/matrix.svg" width="100%"/>
-</p>
 
 <!--
   Note: Markdown does not support true background images or effects. For a full cyberpunk experience, try a browser extension or custom renderer that supports backgrounds and custom cursors!
