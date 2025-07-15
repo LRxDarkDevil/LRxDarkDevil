@@ -11,11 +11,11 @@
 <h2 align="center" style="color:#00FFB2;">🖥️ About Me</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/cpu.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Chill, Creative, And Curious Developer</span><br>
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/target.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Strategy & Indie Game Enjoyer (Not Into FPS)</span><br>
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/compass.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Always Exploring New Tech And Ideas</span><br>
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Ask Me About: Node.js, Firebase, Backend, Gaming</span><br>
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/activity.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Open Source & Creative Coding</span>
+  <img src="https://skillicons.dev/icons?i=cpu&theme=light&scale=1&color=00FFB2" width="24"/> <span>Chill, Creative, And Curious Developer</span><br>
+  <img src="https://skillicons.dev/icons?i=target&theme=light&scale=1&color=00FFB2" width="24"/> <span>Strategy & Indie Game Enjoyer (Not Into FPS)</span><br>
+  <img src="https://skillicons.dev/icons?i=compass&theme=light&scale=1&color=00FFB2" width="24"/> <span>Always Exploring New Tech And Ideas</span><br>
+  <img src="https://skillicons.dev/icons?i=code&theme=light&scale=1&color=00FFB2" width="24"/> <span>Ask Me About: Node.js, Firebase, Backend, Gaming</span><br>
+  <img src="https://skillicons.dev/icons?i=activity&theme=light&scale=1&color=00FFB2" width="24"/> <span>Open Source & Creative Coding</span>
 </p>
 
 
@@ -62,9 +62,9 @@
 <h2 align="center" style="color:#00FFB2;">✨ Fun Facts / Now</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/terminal.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Strategy & Indie Game Enjoyer</span><br>
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/compass.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Chill, Creative, And Always Exploring</span><br>
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/cpu.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Now: Building With Firebase, Node.js, And React!</span>
+  <img src="https://skillicons.dev/icons?i=terminal&theme=light&scale=1&color=00FFB2" width="24"/> <span>Strategy & Indie Game Enjoyer</span><br>
+  <img src="https://skillicons.dev/icons?i=compass&theme=light&scale=1&color=00FFB2" width="24"/> <span>Chill, Creative, And Always Exploring</span><br>
+  <img src="https://skillicons.dev/icons?i=cpu&theme=light&scale=1&color=00FFB2" width="24"/> <span>Now: Building With Firebase, Node.js, And React!</span>
 </p>
 
 
