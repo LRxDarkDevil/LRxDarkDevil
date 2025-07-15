@@ -1,21 +1,11 @@
-<!-- Cyberpunk Matrix Background Effect (Top) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/matrix/matrix.svg" width="100%"/>
-</p>
-
-<!-- Cyberpunk Glitch Animated Banner (Blue/Neon Green) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FFB2&center=true&vCenter=true&width=900&lines=Hi+I'm+Dark+Devil;Chill+Full+Stack+Dev;Strategy+%26+Indie+Game+Lover;Backend+Wizard"/>
-</p>
-
 <!-- Futuristic Neon Wave Animation Banner (Blue/Green) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6,00ffb2&height=200&section=header&text=Dark%20Devil&fontSize=60&fontAlignY=40&desc=Chill%20Full%20Stack%20Dev&descSize=24&descAlign=60&fontColor=00FFB2&descFontColor=00FFB2"/>
 </p>
 
-<!-- Cyberpunk Glitch Divider -->
+<!-- Cyberpunk Glitch Animated Banner (Blue/Neon Green) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/lines/line7.gif" width="80%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FFB2&center=true&vCenter=true&width=900&lines=Hi+I'm+Dark+Devil;Chill+Full+Stack+Dev;Strategy+%26+Indie+Game+Lover;Backend+Wizard"/>
 </p>
 
 <h2 align="center" style="color:#00FFB2;">🖥️ About Me</h2>
@@ -39,15 +29,12 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,react,git,github,vscode,mongodb,postgres,firebase" />
 </p>
 
-<!-- Cyberpunk Glitch Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/lines/line7.gif" width="80%"/>
-</p>
-
 <h2 align="center" style="color:#00FFB2;">📌 Pinned Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/LRxDarkDevil/PromptMotion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LRxDarkDevil&repo=PromptMotion&theme=algolia"/></a>
+  <a href="https://github.com/LRxDarkDevil/PromptMotion">
+    <img src="https://img.shields.io/badge/PromptMotion-Open%20Source-00FFB2?style=for-the-badge&logo=github" alt="PromptMotion"/>
+  </a>
 </p>
 
 <!-- Neon Divider -->
@@ -63,20 +50,12 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LRxDarkDevil&theme=algolia&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
-<p align="center">
-  <img src="https://github.com/LRxDarkDevil/LRxDarkDevil/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
-</p>
-
-<!-- Cyberpunk Glitch Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/lines/line7.gif" width="80%"/>
-</p>
 
 <h2 align="center" style="color:#00FFB2;">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="mailto:tahaadnanawan@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/00FFB2/000000" alt="Gmail" width="40" style="vertical-align:middle;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" style="vertical-align:middle;filter:drop-shadow(0 0 6px #00FFB2);"/>
   </a>
   <a href="https://github.com/LRxDarkDevil"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
   <a href="https://discord.com/users/707565643200724993"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
