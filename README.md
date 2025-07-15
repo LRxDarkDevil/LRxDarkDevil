@@ -1,39 +1,111 @@
-<h1>
-  Hi I'm Dark Devil !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
-<h3>
-  A full stack developer
-</h3>
-<ul>
-  <li>
-    Gamer
-  </li>
-  <li>
-    Love programming. Especially backend development
-  </li>
-</ul>
-<h2>🕻 Contact me <img src="https://komarev.com/ghpvc/?username=LRxDarkDevil&label=Profile%20views&color=0e75b6&style=flat" alt="aalhabib001"/></h2>
+<!-- Cyberpunk Matrix Background Effect (Top) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/matrix/matrix.svg" width="100%"/>
+</p>
 
-<p>
+<!-- Cyberpunk Glitch Animated Banner (Blue/Neon Green) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=00FFB2&center=true&vCenter=true&width=900&lines=Hi+I'm+Dark+Devil;Chill+Full+Stack+Dev;Strategy+%26+Indie+Game+Lover;Cyberpunk+Vibes;Backend+Wizard"/>
+</p>
+
+<!-- Futuristic Neon Wave Animation Banner (Blue/Green) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6,00ffb2&height=200&section=header&text=Dark%20Devil&fontSize=60&fontAlignY=40&desc=Chill%20Full%20Stack%20Dev%20%7C%20Cyberpunk%20Vibes&descSize=24&descAlign=60"/>
+</p>
+
+<!-- Cyberpunk Glitch Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/lines/line7.gif" width="80%"/>
+</p>
+
+<h2 align="center" style="color:#00FFB2;">🖥️ About Me</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/cpu.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#0e75b6;">Chill, Creative, And Curious Developer</span><br>
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/target.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Strategy & Indie Game Enjoyer (Not Into FPS)</span><br>
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/compass.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#0e75b6;">Always Exploring New Tech And Ideas</span><br>
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Ask Me About: Node.js, Firebase, Backend, Gaming</span><br>
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/activity.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#0e75b6;">Open Source & Creative Coding</span>
+</p>
+
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/readme-assets/main/divider/divider-10.svg" width="80%"/>
+</p>
+
+<h2 align="center" style="color:#00FFB2;">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,react,git,github,vscode,mongodb,postgres,firebase" />
+</p>
+
+<!-- Cyberpunk Glitch Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/lines/line7.gif" width="80%"/>
+</p>
+
+<h2 align="center" style="color:#00FFB2;">📌 Pinned Projects</h2>
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LRxDarkDevil&repo=your-cool-repo&theme=algolia"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LRxDarkDevil&repo=another-repo&theme=algolia"/></a>
+  <!-- Replace With Your Actual Repo Names -->
+</p>
+
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/readme-assets/main/divider/divider-10.svg" width="80%"/>
+</p>
+
+<h2 align="center" style="color:#00FFB2;">📈 GitHub Stats & Widgets</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LRxDarkDevil&theme=algolia" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LRxDarkDevil&theme=algolia&no-frame=true&row=1&column=7" alt="trophies"/>
+</p>
+<p align="center">
+  <img src="https://github.com/LRxDarkDevil/LRxDarkDevil/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
+<!-- Cyberpunk Glitch Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/lines/line7.gif" width="80%"/>
+</p>
+
+<h2 align="center" style="color:#00FFB2;">🌐 Connect With Me</h2>
+
+<p align="center">
   <a href="mailto:tahaadnanawan@gmail.com">
-    <img src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335/ffffff" alt="Gmail" width="40" style="vertical-align:middle;"/>
   </a>
+  <a href="https://github.com/LRxDarkDevil"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://discord.com/users/707565643200724993"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
+</p>
+<p align="center" style="color:#00FFB2; font-size: 16px;">
+  <b>Discord:</b> darkdare_devil<br>
+  <b>Gmail:</b> tahaadnanawan@gmail.com
 </p>
 
-<h2>👩‍💻 Skills</h2>
-
-<p>
-  <a href="https://www.w3schools.com/html/"><img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="html" width="40" height="40"/>
-  <a href="https://www.w3schools.com/js/"><img src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="js" width="40" height="40"/>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
-  <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
-    <a href="https://github.com"><img src="https://www.freepnglogos.com/uploads/512x512-logo/512x512-transparent-logo-github-logo-24.png" height="40" alt="GitHub" /></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/keikomori/icons-badges/master/icons/NodeJS/nodejs.svg" alt="Node js" width="40" height="40"/></a>
+<!-- Neon Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshay090/readme-assets/main/divider/divider-10.svg" width="80%"/>
 </p>
 
- Stats        | Languages     
---------------|-----------
- <img src="https://github-readme-stats.vercel.app/api?username=LRxDarkDevil&show_icons=true&theme=algolia" alt="stats"/>  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LRxDarkDevil&theme=radical&hide=c,objective-c,nim" alt="languages"/>
-    
-Thanks to <a href="https://github.com/MrinmoyHaloi">Mrinmory Haloi</a>
+<h2 align="center" style="color:#00FFB2;">✨ Fun Facts / Now</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/terminal.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Strategy & Indie Game Enjoyer</span><br>
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/compass.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#0e75b6;">Chill, Creative, And Always Exploring</span><br>
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/cpu.svg" width="24" style="vertical-align:middle;filter:invert(54%) sepia(100%) saturate(1000%) hue-rotate(90deg);"/> <span style="color:#00FFB2;">Now: Building With Firebase, Node.js, And React!</span>
+</p>
+
+<!-- Cyberpunk Matrix Background Effect (Bottom) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/assets/matrix/matrix.svg" width="100%"/>
+</p>
+
+<!--
+  Note: Markdown does not support true background images or effects. For a full cyberpunk experience, try a browser extension or custom renderer that supports backgrounds and custom cursors!
+-->
