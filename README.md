@@ -22,7 +22,7 @@
   <a href="https://darkdevil.is-a.dev/">
     <img src="https://img.shields.io/badge/Portfolio-darkdevil.is--a.dev-CDEC6A?style=for-the-badge&logo=googlechrome&logoColor=0D1B2A" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/muhammadtahaadnan">
+  <a href="https://linkedin.com/in/darkdaredevil">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-004D43?style=for-the-badge&logo=linkedin&logoColor=CDEC6A" alt="LinkedIn"/>
   </a>
 </p>
@@ -153,8 +153,8 @@ const taha = {
   <a href="mailto:tahaadnanawan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-tahaadnanawan-004D43?style=for-the-badge&logo=gmail&logoColor=CDEC6A" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/muhammadtahaadnan">
-    <img src="https://img.shields.io/badge/LinkedIn-muhammadtahaadnan-004D43?style=for-the-badge&logo=linkedin&logoColor=CDEC6A" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/darkdaredevil">
+    <img src="https://img.shields.io/badge/LinkedIn-darkdaredevil-004D43?style=for-the-badge&logo=linkedin&logoColor=CDEC6A" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/DarkDare_Devil">
     <img src="https://img.shields.io/badge/Twitter-@DarkDare__Devil-004D43?style=for-the-badge&logo=x&logoColor=CDEC6A" alt="Twitter"/>
