@@ -2,7 +2,7 @@
 <!-- HEADER BANNER                                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D43,50:0D1B2A,100:004D43&height=220&section=header&text=Muhammad%20Taha&fontSize=52&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20Pakistan's%20Next%20Startup&descSize=16&descAlign=50&descAlignY=55&fontColor=CDEC6A&descFontColor=CBD5E1&animation=fadeIn&fontAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004D43,50:0D1B2A,100:004D43&height=220&section=header&text=Dark%20Dare%20Devil&fontSize=52&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20Pakistan's%20Next%20Startup&descSize=16&descAlign=50&descAlignY=55&fontColor=CDEC6A&descFontColor=CBD5E1&animation=fadeIn&fontAlign=50"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -40,8 +40,8 @@
 <td width="600">
 
 ```js
-const taha = {
-    name: "Muhammad Taha",
+const DarkDareDevil = {
+    name: "Dark Dare Devil",
     location: "Pakistan",
     role: "Full-Stack Developer",
     building: "Pakistan's Next Startup",
@@ -150,12 +150,7 @@ const taha = {
   <a href="https://darkdevil.is-a.dev/">
     <img src="https://img.shields.io/badge/Portfolio-darkdevil.is--a.dev-CDEC6A?style=for-the-badge&logo=googlechrome&logoColor=0D1B2A" alt="Portfolio"/>
   </a>
-  <a href="mailto:tahaadnanawan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-tahaadnanawan-004D43?style=for-the-badge&logo=gmail&logoColor=CDEC6A" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/darkdaredevil">
-    <img src="https://img.shields.io/badge/LinkedIn-darkdaredevil-004D43?style=for-the-badge&logo=linkedin&logoColor=CDEC6A" alt="LinkedIn"/>
-  </a>
+
   <a href="https://twitter.com/DarkDare_Devil">
     <img src="https://img.shields.io/badge/Twitter-@DarkDare__Devil-004D43?style=for-the-badge&logo=x&logoColor=CDEC6A" alt="Twitter"/>
   </a>
@@ -175,5 +170,5 @@ const taha = {
 </p>
 
 <p align="center">
-  <sub>Built with passion by <a href="https://darkdevil.is-a.dev/">Muhammad Taha</a></sub>
+  <sub>Built with passion by <a href="https://darkdevil.is-a.dev/">Dark Dare Devil</a></sub>
 </p>
